@@ -2,3 +2,4 @@
 Hello Odin!
 
 My name is ....
+cd git
